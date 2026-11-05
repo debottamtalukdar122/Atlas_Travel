@@ -1,0 +1,10 @@
+node_modules/
+dist/
+vendor/
+.env
+backend/.env
+backend/mysql.local.ini
+backend/vendor/
+backend/storage/*.key
+backend/bootstrap/cache/*.php
+*.log
